@@ -1,6 +1,6 @@
 # Mathis Velez | Cybersecurity Engineering Student
 
-🎓 **5th-year student at INSA Centre-Val de Loire** specializing in Cybersecurity. 
+**5th-year student at INSA Centre-Val de Loire** specializing in Cybersecurity. 
 Looking for a **6-month internship starting February 2027**.
 
 I am passionate about building secure architectures, exploring cryptography, breaking into vulnerable systems (responsibly), and applying machine learning to real-world problems.
@@ -18,5 +18,5 @@ I am passionate about building secure architectures, exploring cryptography, bre
 ###  Featured Projects
 * **[TennisAI-iOS](lien-vers-repo):** Real-time iOS application using Computer Vision (CoreML/Vision) to analyze tennis strokes, impact zones, and rally statistics.
 * **[Transformer-NIDS](lien-vers-repo):** Cloud intrusion detection system built with PyTorch using self-attention mechanisms on the CIC-IDS 2018 dataset (93%+ accuracy).
+* **[RL-Tournament-Agent](lien-vers-repo):** Developed an autonomous Deep Q-Network (DQN) agent in PyTorch for a Reinforcement Learning tournament (Masaryk University), implementing custom environment wrappers and policy interfaces.
 * **[Mini-Shell-C](lien-vers-repo):** A low-level Unix command interpreter built from scratch focusing on memory management and syscalls.
-
