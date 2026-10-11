@@ -1,16 +1,22 @@
-## Hi there 👋
+# Mathis Velez | Cybersecurity Engineering Student
 
-<!--
-**mathisvel/mathisvel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **5th-year student at INSA Centre-Val de Loire** specializing in Cybersecurity. 
+Looking for a **6-month internship starting February 2027**.
 
-Here are some ideas to get you started:
+I am passionate about building secure architectures, exploring cryptography, breaking into vulnerable systems (responsibly), and applying machine learning to real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+###  Featured Projects
+* **[TennisAI-iOS](lien-vers-repo):** Real-time iOS application using Computer Vision (CoreML/Vision) to analyze tennis strokes, impact zones, and rally statistics.
+* **[Transformer-NIDS](lien-vers-repo):** Cloud intrusion detection system built with PyTorch using self-attention mechanisms on the CIC-IDS 2018 dataset (93%+ accuracy).
+* **[Mini-Shell-C](lien-vers-repo):** A low-level Unix command interpreter built from scratch focusing on memory management and syscalls.
+
