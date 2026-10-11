@@ -16,7 +16,7 @@ I am passionate about building secure architectures, exploring cryptography, bre
 </p>
 
 ###  Featured Projects
-* **[TennisAI-iOS](lien-vers-repo):** Real-time iOS application using Computer Vision (CoreML/Vision) to analyze tennis strokes, impact zones, and rally statistics.
+* **[TennisAI-iOS](https://github.com/mathisvel/TennisAssistant):** Real-time iOS application using Computer Vision (CoreML/Vision) to analyze tennis strokes, impact zones, and rally statistics.
 * **[Transformer-NIDS](https://github.com/mathisvel/Transformer-NIDS):** Cloud intrusion detection system built with PyTorch using self-attention mechanisms on the CIC-IDS 2018 dataset (93%+ accuracy).
 * **[RL-Tournament-Agent](https://github.com/mathisvel/ReinforcementLearning):** Developed an autonomous Deep Q-Network (DQN) agent in PyTorch for a Reinforcement Learning tournament (Masaryk University), implementing custom environment wrappers and policy interfaces.
 * **[Mini-Shell-C](lien-repo):** A low-level Unix command interpreter built from scratch focusing on memory management and syscalls.
